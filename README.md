@@ -16,7 +16,11 @@ Jan 5, 2016
 https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=2&t=7s
 
 
-### Lecture2:
+### Lecture2: Data-driven approach, kNN, Linear Classification 1
+
+Jan 7, 2016
+
+https://www.youtube.com/watch?v=8inugqHkfvE&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=3&t=0s
 
 ### Lecture3:
 
